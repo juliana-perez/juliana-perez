@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn and help other people
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on students or profissionals
-- 📫 How to reach me cassiacs@gmail.com
+- 📫 How to reach me julianapas@gmail.com
 
 <!---
 juliana-perez/juliana-perez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
